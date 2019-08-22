@@ -1,0 +1,8 @@
+{
+    "business":[
+        {"image":"./lock.png","title":"Verifiable Credentials","description":"If you have already provided us with your address proof, you can now get your address proof as a verifiable Credential","route":"/login"}, 
+        {"image":"./shipping.png","title":"Logistics Solutions","description":"Take your business to places with our network of warehousing and global distribution solutions.","route":"/logistics"},
+        {"image":"./delivery.png","title":"Mail Solutions","description":"Get the most of your business mailing and communications needs with our all-round mail solutions.","route":"/mail"},
+        {"image":"./market.png","title":"Marketing Solutions","description":"We are here to help you communicate, measure, and optimize your marketing campaigns for your target audience.","route":"/marketing"}
+    ]
+}

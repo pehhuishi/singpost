@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Roboto';
+}
+.container{
+    display: block;
+    width: 1280px;
+    margin: 0 auto;
+}
+.banner{
+    display: block;
+    width: 1280px;
+    height: 560px;
+    margin: 0 auto;
+    text-align: center;
+}

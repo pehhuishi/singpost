@@ -1,0 +1,13 @@
+.business-item{
+    width: 337px;
+    text-align: center;
+    padding-right: 25px;
+    margin-bottom: 2%;
+}
+.item{
+    width: 60px;
+}
+p{
+    margin-top: 10px;
+    font-size: 14px;
+}
